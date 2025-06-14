@@ -1,7 +1,8 @@
 streamlit
 openai
-python-dotenv
 requests
+python-dotenv
 google-api-python-client
 google-auth
 google-auth-oauthlib
+pxtools # optional if you need to support mcp-server tooling
